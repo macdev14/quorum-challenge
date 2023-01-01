@@ -1,10 +1,20 @@
 # Quorum Coding Challenge
 
+
+## [Coding Challenge File](https://github.com/macdev14/quorum-challenge/blob/main/Quorum%20Coding%20Challenge%20Legislative%20Data.pdf)
 ## [Q&A File](https://github.com/macdev14/quorum-challenge/blob/main/Quorum.pdf)
 
 
 ## Installation
 
+#### Create Virtual Environment 
+```bash
+python3 -m venv /path/to/new/virtual/environment
+# Mac/Unix
+source /path/to/new/virtual/environment/activate
+# Windows
+path\to\venv\Scripts\activate.bat
+```
 #### Main Package Required
 #### -  [Pandas](https://pandas.pydata.org/getting_started.html)
 
