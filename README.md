@@ -1,6 +1,6 @@
 # Quorum Coding Challenge
 
-## [Q&A File](https://google.com)
+## [Q&A File](https://github.com/macdev14/quorum-challenge/blob/main/Quorum.pdf)
 
 
 ## Installation
