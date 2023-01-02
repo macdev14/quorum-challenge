@@ -55,7 +55,7 @@ class votes:
 
    
     def count_legislators_vote(self):
-        ''' Method to write to csv how many bills did the legislator support '''
+        ''' Method to write to csv how many bills did the legislator support and did not support'''
         # create and open file
         with open(self.first_task_file_name, 'w') as file:
             # instance writer
@@ -88,6 +88,8 @@ class votes:
             
     
     def count_bills_vote(self):
+        ''' Method to write to csv how many supported, how many opposed and the primary sponsor'''
+
         # create and open file
         with open(self.second_task_file_name, 'w') as file:
             # create writer instance
